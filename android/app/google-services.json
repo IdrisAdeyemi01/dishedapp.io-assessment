@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "832445605041",
+    "project_id": "dished-assessment",
+    "storage_bucket": "dished-assessment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832445605041:android:60d07e76a78cff6dcbee90",
+        "android_client_info": {
+          "package_name": "com.example.dished_assessment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832445605041-d65e9lht97b9g3t6hbk8lg92h817i7vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG5f6bkwgLBD9s8KaOjyf-rvOo6yaqsOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832445605041-d65e9lht97b9g3t6hbk8lg92h817i7vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
