@@ -13,7 +13,7 @@ class AppStrings {
   static const name = 'Idris A Idris';
   static const welcome = 'You\'re welcome: ';
   static const yourGithubPageURL = 'Your Github page URL is: ';
-  static const githubURL = 'github.com';
+  static const githubURL = 'github.com/IdrisAdeyemi01';
   static const checkLocationLabel =
       'If you wish to check your current location (latitude and longitude), click the button below';
   static const checkLocation = 'Check Location';
